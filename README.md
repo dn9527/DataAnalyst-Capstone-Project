@@ -36,7 +36,7 @@ Usage
 
 To run the analysis project, follow these steps:
 
-Clone the repository: git clone https://github.com/dn9527/fitness-tracker-analysis.git
+Clone the repository: git clone https://github.com/dn9527/DataAnalyst-Capstone-Project.git
 Install the required dependencies: pip install pandas matplotlib seaborn
 Open the Jupyter Notebook or Python script for the analysis.
 Modify the file paths or configurations if necessary to match your local environment.
